@@ -1,0 +1,6 @@
+how to let vehicles drive unsafely: Python spawn_npc.py -n --safe
+how to change the map: python config.py --map Town0(insert number here)
+how to spawn people/walkers: Python spawn_npc.py --number-of-walkers (insert number here)
+Activate envioronment: $ conda activate (EAsports aka name)
+Decativate envioronment: $ conda deactivate
+Create envioronment: conda create -n (name of enviornment) python==3.7 -y
